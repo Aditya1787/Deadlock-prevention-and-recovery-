@@ -55,7 +55,7 @@ A visual simulator for understanding deadlocks in operating systems, featuring i
 ## Live Demo 🌐
 
 The project is hosted on GitHub Pages:  
-[View Live Demo]((https://aditya1787.github.io/Deadlock-prevention-and-recovery-/))
+[View Live Demo](https://aditya1787.github.io/Deadlock-prevention-and-recovery-/)
 
 ## Installation 📦
 
